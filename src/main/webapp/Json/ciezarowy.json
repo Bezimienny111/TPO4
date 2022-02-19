@@ -1,0 +1,16 @@
+[
+{
+	class: Car
+	marka: Volvo
+	rok: 1993
+	silnik: "1,7"
+	maxPrędkośc: 150
+}
+{
+	class: Car
+	marka: Citroen
+	rok: 2008
+	silnik: "1,9"
+	maxPrędkośc: 140
+}
+]

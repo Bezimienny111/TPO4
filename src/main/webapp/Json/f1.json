@@ -1,0 +1,16 @@
+[
+{
+	class: Car
+	marka: Ferrari
+	rok: 2021
+	silnik: "2,0"
+	maxPrędkośc: 310
+}
+{
+	class: Car
+	marka: Ferrari
+	rok: 2010
+	silnik: "2,0"
+	maxPrędkośc: 300
+}
+]

@@ -1,0 +1,16 @@
+[
+{
+	class: Car
+	marka: DAF
+	rok: 2005
+	silnik: "2,0"
+	maxPrędkośc: 150
+}
+{
+	class: Car
+	marka: Volvo
+	rok: 2000
+	silnik: "2,0"
+	maxPrędkośc: 130
+}
+]
